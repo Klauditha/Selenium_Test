@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkZFqWXZnG8V+lduaDKICsmpAZBFG0IW/VdXewLflhFTmGY7yF7kq9EZcfjrDBTFqwH7sk5yo1A/lOS4YslzTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\claudia.villarroel\\Documents\\Personal\\Selenium_Test1\\Selenium_Test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claudia.villarroel\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\claudia.villarroel\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\claudia.villarroel\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
